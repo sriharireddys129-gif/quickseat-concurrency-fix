@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Prisma
+prisma/*.db
+prisma/*.db-journal
+
+# Operating system
+.DS_Store
+Thumbs.db
